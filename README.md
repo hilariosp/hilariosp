@@ -1,9 +1,9 @@
 ## Oiee :P
 
+![Hilário GitHub stats](https://github-readme-stats.vercel.app/api?username=hilariosp&show_icons=true&theme=blue&count_private=true)
+
+## Minhas redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hilario.saraiva/)
-
-![Hilário GitHub stats](https://github-readme-stats.vercel.app/api?username=guiandrade01&show_icons=true&theme=blue&count_private=true)
-
 
 
 <!--
