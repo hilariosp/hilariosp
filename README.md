@@ -1,4 +1,4 @@
-## Sobre mim:
+## ✏️Sobre mim:
 
 1x medalhista na OBMEP
 
