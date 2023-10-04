@@ -1,8 +1,8 @@
 ## Sobre mim:
 
-Oiee :P
-Estudante do IFBAIANO Campus Guanambi
-1x medalhista de bronze da OBMEP
+1x medalhista na OBMEP 
+2x medalhista na OBA
+Atualmente ingressando o segundo ano do ensino médio no IFBAIANO Campus Guanambi
 
 ## 📊GitHub Stats:
 
