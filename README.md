@@ -1,7 +1,9 @@
 ## Sobre mim:
 
-1x medalhista na OBMEP 
+1x medalhista na OBMEP
+
 2x medalhista na OBA
+
 Atualmente ingressando o segundo ano do ensino médio no IFBAIANO Campus Guanambi
 
 ## 📊GitHub Stats:
