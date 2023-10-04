@@ -15,6 +15,7 @@ Atualmente ingressando o segundo ano do ensino médio no IF Baiano Campus Guanam
 
 ## 🌐Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hilario.saraiva/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/hilariosaraivap)	
 
 ## 💻Linguagens que conheço
 
