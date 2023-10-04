@@ -4,7 +4,7 @@
 
 2x medalhista na OBA
 
-Atualmente ingressando o segundo ano do ensino médio no IFBAIANO Campus Guanambi
+Atualmente ingressando o segundo ano do ensino médio no IF Baiano Campus Guanambi
 
 ## 📊GitHub Stats:
 
