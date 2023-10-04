@@ -1,6 +1,9 @@
 ## Oiee :P
 
-![Hilário GitHub stats](https://github-readme-stats.vercel.app/api?username=hilariosp&show_icons=true&theme=blue&count_private=true)
+![Hilário GitHub stats](https://github-readme-stats.vercel.app/api?username=hilariosp&show_icons=true&theme=merko&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilariosp&show_icons=true&theme=merko&count_private=true)](https://github.com/hilariosp/github-readme-stats)
+
 
 ## Minhas redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hilario.saraiva/)
