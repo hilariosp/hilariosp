@@ -13,10 +13,10 @@ Atualmente ingressando o segundo ano do ensino médio no IF Baiano Campus Guanam
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilariosp&show_icons=true&theme=merko&count_private=true)](https://github.com/hilariosp/github-readme-stats)
 
 
-## Redes Sociais:
+## 🌐Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hilario.saraiva/)
 
-## Linguagens que conheço
+## 💻Linguagens que conheço
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
