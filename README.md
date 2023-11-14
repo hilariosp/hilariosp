@@ -4,6 +4,8 @@
 
 2x medalhista na OBA
 
+Amante de Músicas
+
 Atualmente ingressando o segundo ano do ensino médio no IF Baiano Campus Guanambi
 
 ## 📊GitHub Stats:
