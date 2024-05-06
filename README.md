@@ -1,12 +1,6 @@
 ## ✏️Sobre mim:
 
-1x medalhista na OBMEP
-
-2x medalhista na OBA
-
-Amante de Músicas
-
-Atualmente ingressando o segundo ano do ensino médio no IF Baiano Campus Guanambi
+Atualmente ingressando o segundo ano do ensino médio no IF Baiano Campus Guanambi - Informática para Internet
 
 ## 📊GitHub Stats:
 
