@@ -1,6 +1,6 @@
 ## ✏️Sobre mim:
 
-Atualmente ingressando o segundo ano do ensino médio no IF Baiano Campus Guanambi - Informática para Internet
+Atualmente ingressando o terceiro ano do ensino médio no IF Baiano Campus Guanambi - Informática para Internet
 
 ## 📊GitHub Stats:
 
